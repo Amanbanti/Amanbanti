@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanbanti" alt="amanbanti" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/twitter.com/amanbanti2024?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/twitter.com/amanbanti2024?s=09?logo=twitter&style=for-the-badge" alt="twitter.com/amanbanti2024?s=09" /></a> </p>
 
 - 🌱 I’m currently learning **React,Node.js**
 
