@@ -1,6 +1,6 @@
-                                                                                                            <h1>Hi 👋, I'm Aman </h1>
+                              <h1>Hi 👋, I'm Aman </h1>
 
-                                                                                                     <h3>A passionate full-stack developer.</h3>
+                      <h3>A passionate full-stack developer.</h3>
 
 💬 Ask me about React , Node.js, python
 
