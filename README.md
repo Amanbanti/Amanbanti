@@ -1,4 +1,4 @@
-Hi 👋, I'm Aman
+<h2>Hi 👋, I'm Aman </h2>
 
 A passionate full-stack developer
 
