@@ -2,7 +2,7 @@ Hi 👋, I'm Aman
 
 A passionate full-stack developer
 
-💬 Ask me about php , laravel, python, django
+💬 Ask me about React , Node.js, python
 
 📫 How to reach me amanbanti2011@gmail.com
 <!--
