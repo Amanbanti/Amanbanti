@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/twitter.com/amanbanti2024?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/amanbanti2024?s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://et.linkedin.com/in/amanuel-bantidagn-a2b7b827b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://et.linkedin.com/in/amanuel-bantidagn-a2b7b827b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21611583/aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21611583/aman" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aman512/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aman512/" height="30" width="40" /></a>
+<a href="https://twitter.com/amanbanti2024?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/amanbanti2024?s=09" height="30" width="40" /></a>
+<a href="https://et.linkedin.com/in/amanuel-bantidagn-a2b7b827b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://et.linkedin.com/in/amanuel-bantidagn-a2b7b827b" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21611583/aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21611583/aman" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/aman512/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aman512/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
