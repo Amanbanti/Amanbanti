@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center"><h5>I'm Aman from Ethiopia ,and I'm passionate full-stack developer , I really enjoy learning languages and frameworks like react and node.js . You can check out my Twitter at https://twitter.com/amanbanti2024?s=09.</h5></h3>
+<h3 align="center"><h5>I'm Aman from Ethiopia ,and I'm passionate full-stack developer , I really enjoy learning languages and frameworks like react. express and node.js . You can check out my Twitter at https://twitter.com/amanbanti2024?s=09.</h5></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanbanti&label=Profile%20views&color=0e75b6&style=flat" alt="amanbanti" /> </p>
 
