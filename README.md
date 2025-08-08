@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://portfolio-site-7pb9.vercel.app/" target="_blank">🌐 My Portfolio</a> •
-  <a href="https://x.com/ABantidagn19955?t=uYum2AxdmLOAyndNMdlVdA&s=09" target="_blank">🐦 Twitter</a> •
+  <a href="https://x.com/amanbantii?t=NYVLJzGd92czPao0AzJShQ&s=09" target="_blank">🐦 Twitter</a> •
   <a href="www.linkedin.com/in/amanuel-bantidagn-691487374" target="_blank">💼 LinkedIn</a> •
   <a href="https://github.com/Amanbanti" target="_blank">💻 GitHub</a>
 </p>
@@ -38,7 +38,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/ABantidagn19955?t=uYum2AxdmLOAyndNMdlVdA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://x.com/amanbantii?t=NYVLJzGd92czPao0AzJShQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/amanuel-bantidagn-691487374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21611583/aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/aman512/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
