@@ -28,11 +28,11 @@
 
 ---
 
-- 🌱 I’m currently learning **React, Node.js**  
 - 👨‍💻 All of my projects are available here: [GitHub Repositories](https://github.com/Amanbanti?tab=repositories)  
-- 💬 Ask me about **React, Node.js, Python**  
+- 💬 Ask me about **Backend & Frontend Development** with **NestJS, Express, React, Python, Node.js, and Next.js**  
 - 📫 How to reach me: **amanbanti2011@gmail.com**  
-- 📄 Know about my experiences: [My Resume](https://github.com/Amanbanti/My-Resume)  
+- 📄 Know about my experiences: [My Resume](https://portfolio-site-7pb9.vercel.app/)  
+
 
 ---
 
